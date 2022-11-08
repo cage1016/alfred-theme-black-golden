@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 15,
+        "colorSelected" : "#12100FFF",
+        "font" : "System",
+        "color" : "#A9A9A9FF"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "System",
+        "color" : "#12100FFF"
+      },
+      "backgroundSelected" : "#EEB030FF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#12100FFF",
+        "font" : "System",
+        "color" : "#12100FFF"
+      },
+      "iconPaddingHorizontal" : 7,
+      "roundness" : 0,
+      "paddingVertical" : 4,
+      "iconSize" : 34
+    },
+    "search" : {
+      "backgroundSelected" : "#E8D7C3FF",
+      "paddingHorizontal" : 8,
+      "spacing" : 8,
+      "text" : {
+        "size" : 26,
+        "colorSelected" : "#12100FFF",
+        "font" : "System",
+        "color" : "#12100FFF"
+      },
+      "background" : "#FEFFFFFF",
+      "roundness" : 5,
+      "paddingVertical" : 3
+    },
+    "window" : {
+      "color" : "#FEFFFFFF",
+      "paddingHorizontal" : 0,
+      "width" : 671,
+      "borderPadding" : 3,
+      "borderColor" : "#EEB030FF",
+      "blur" : 40,
+      "roundness" : 7,
+      "paddingVertical" : 6
+    },
+    "credit" : "KAI CHU CHUNG",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#718196FF",
+      "thickness" : 1
+    },
+    "name" : "Black Golden - Light"
+  }
+}
